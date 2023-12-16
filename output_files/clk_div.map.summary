@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Dec 16 15:12:22 2023
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : clk_div
+Top-level Entity Name : clk_div
+Family : Cyclone IV E
+Total logic elements : 8
+    Total combinational functions : 8
+    Dedicated logic registers : 6
+Total registers : 6
+Total pins : 2
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
